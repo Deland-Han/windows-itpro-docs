@@ -7,6 +7,7 @@
 ## [Get started](demonstrate-deployment-on-vm.md)
 
 # Deployment scenarios
+## [Deployment processes](deployment-process.md)
 ## [User-driven mode](user-driven.md)
 ## [Self-deploying mode](self-deploying.md)
 ## [Windows Autopilot Reset](windows-autopilot-reset.md)
@@ -18,6 +19,7 @@
 ## [Configuring device profiles](profiles.md)
 ## [Enrollment Status Page](enrollment-status.md)
 ## [BitLocker encryption](bitlocker.md)
+## [DFCI management](dfci-management.md)
 ## [Troubleshooting](troubleshooting.md)
 ## [Known issues](known-issues.md)
 
